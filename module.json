@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": false,
+    "disabled": false,
+    "name": "Redirector",
+    "author": "TerableMods",
+    "description": "Redirects you to more convenient locations",
+    "options": {
+        "niceName": "Redirector",
+        "guiName": "Redirector"
+    },
+    "supportUrl": "https://github.com/TerableMods/Redirector/issues",
+    "servers": ["https://raw.githubusercontent.com/TerableMods/Redirector/master/"]
+}

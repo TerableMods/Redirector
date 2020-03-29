@@ -1,0 +1,16 @@
+{
+    "files": {
+        "config.json": {
+          "overwrite": false,
+          "hash": "aa014142a0168313a765dd1211c4c605eb3f15107ab0e1a27ec472170a5fbeca"
+        },
+        "index.js": "33f865219b7f6072139cb3190a5b5d5a0a3e0ff7be2b8951b9a472a26f014b85",
+        "module.json": "471cac8dd2a0407e6d00ef1c3ac7fbdf16f203f8655b57d44d1121a6bb901630",
+        "README.md": "55217172996d93cee83d0b96228833cad0460bdee6671cad35214c06a39ebc68"
+    },
+    "defs": {
+        "C_RESET_ALL_DUNGEON": 1,
+        "S_SPAWN_ME": 3,
+        "S_SPAWN_NPC": 11
+    }
+}
